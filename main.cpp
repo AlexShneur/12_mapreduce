@@ -1,4 +1,4 @@
-#include "mapreduce.h"
+#include "MapReduce.h"
 #include <iostream>
 #include <string>
 /**
